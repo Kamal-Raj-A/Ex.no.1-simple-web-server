@@ -130,6 +130,10 @@ public class HelloController {
 
 
 
-Output:
+### Output:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1022b1d6-d421-40fd-95a8-f9be0ca81e46" />
 
+### Result:
+
+Thus the simple web server creation is executed successfully.
